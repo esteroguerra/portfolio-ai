@@ -1,4 +1,4 @@
-﻿# Portfólio AI Engineer
+﻿# Portfólio AI
 
 Portfólio em construção por Ester Guerra, estudante de Análise e Desenvolvimento de Sistemas.
 Estou aprendendo Python e Inteligência Artificial construindo projetos progressivos.
