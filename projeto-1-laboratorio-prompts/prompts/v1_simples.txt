@@ -1,0 +1,3 @@
+﻿Classifique a mensagem do cliente como elogio, dúvida ou reclamação.
+
+Mensagem: {mensagem}
